@@ -1,0 +1,8 @@
+[{"question_text": "What is the name of the highest wicket taker in Indian cricket?",
+  "alternatives": ["Kapil Dev", "Nag Ashwin", "Anil Kumble", "Muthiah Muralitharan"], "question_answer": 3},
+  {"question_text": "Who was the first Indian cricketer to score 6 sixes in an over?",
+    "alternatives": ["Yuvraj Singh", "Ravi Shastri", "MS Dhoni", "Virat Kohli"], "question_answer": 2},
+{"question_text": "Who bowled the fastest ball ever?", "alternatives": ["Shoaib Akhtar", "Wasim Akram",
+             "Kapil Dev", "Mohammed Shami"], "question_answer": 1}, {"question_text": "Which team won the last IPL season?",
+  "alternatives": ["Chennai Super Kings", "Mumbai Indians",
+             "Royal Challengers Bangalore", "Gujarat Titans"], "question_answer": 1}]
